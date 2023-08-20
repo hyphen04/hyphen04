@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunj-patel-42053b237" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" atl="linkedin" hight="36px" width="36px></a>
+<a href="https://www.linkedin.com/in/ikp" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" atl="linkedin" hight="36px" width="36px"/></a>
+  <a href="https://www.instagram.com/kunj.026" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" atl="instagram" hight="36px" width="36px"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyphen04&show_icons=true&locale=en&layout=compact" alt="hyphen04" /></p>
