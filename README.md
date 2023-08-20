@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyphen04&show_icons=true&locale=en&layout=compact" alt="hyphen04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyphen04&show_icons=true&locale=en" alt="hyphen04" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyphen04&" alt="hyphen04" /></p>
