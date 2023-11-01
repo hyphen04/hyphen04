@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://kunj.vercel.app/](https://kunj.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ikunj.me/](https://ikunj.me/)
 
 - 📫 How to reach me **kunj2604@gmail.com**
 
