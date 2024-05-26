@@ -32,6 +32,8 @@
   }
 </style>
 
+---
+
 <div class="container">
   <div class="item">
     <h3 class="center">👨‍💻 About Me</h3>
