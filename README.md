@@ -13,7 +13,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
     <h3 style="text-align: center;">👨‍💻 About Me</h3>
-    <p>- 🔭 Working on <a href="https://github.com/kunjpatel3/YatraZen">YatraZen</a></p>
+    <p>- 🔭 Working on <a href="https://github.com/hyphen04/v4-YatraZen">YatraZen</a></p>
     <p>- 🌱 Researching **Face Recognition Systems**</p>
     <p>- 🎓 Tech Club Initiator</p>
     <p>- 🏆 Finalist at <strong>New India Vibrant Hackathon - 2023</strong></p>
