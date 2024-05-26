@@ -35,7 +35,7 @@
   <div class="item">
     <h3 class="center">👨‍💻 About Me</h3>
     <p>- 🔭 Working on <a href="https://github.com/kunjpatel3/YatraZen">YatraZen</a></p>
-    <p>- 🌱 Researching **Face Recognition Systems**</p>
+    <p>- 🌱 Researching <strong>Face Recognition Systems</strong></p>
     <p>- 🎓 Tech Club Initiator</p>
     <p>- 🏆 Finalist at <strong>New India Vibrant Hackathon - 2023</strong></p>
   </div>
