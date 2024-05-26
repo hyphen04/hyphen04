@@ -7,33 +7,6 @@
   <a href="mailto:kunj2604@gmail.com"><img src="https://img.shields.io/badge/Email-kunj2604%40gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
----
-
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .item {
-    flex: 1 1 300px;
-    margin: 10px;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s;
-  }
-  .item:hover {
-    transform: scale(1.05);
-  }
-  .center {
-    text-align: center;
-  }
-</style>
-
----
-
 <div class="container">
   <div class="item">
     <h3 class="center">👨‍💻 About Me</h3>
