@@ -10,24 +10,24 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    <h3 style="text-align: center;">👨‍💻 About Me</h3>
+<div>
+  <div>
+    <h3>👨‍💻 About Me</h3>
     <p>- 🔭 Working on <a href="https://github.com/hyphen04/v4-YatraZen">YatraZen</a></p>
     <p>- 🌱 Researching **Face Recognition Systems**</p>
     <p>- 🎓 Tech Club Initiator</p>
     <p>- 🏆 Finalist at <strong>New India Vibrant Hackathon - 2023</strong></p>
   </div>
-  <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    <h3 style="text-align: center;">🌐 Connect with Me</h3>
-    <p style="text-align: center;">
+  <div>
+    <h3>🌐 Connect with Me</h3>
+    <p>
       <a href="https://linkedin.com/in/ikp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
       <a href="https://ikunj.me"><img src="https://img.shields.io/badge/Portfolio-ikunj.me-blue?style=flat-square&logo=web"></a>
     </p>
   </div>
-  <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    <h3 style="text-align: center;">🛠️ Languages and Tools</h3>
-    <p style="text-align: center;">
+  <div>
+    <h3>🛠️ Languages and Tools</h3>
+    <p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -40,16 +40,16 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
     </p>
   </div>
-  <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    <h3 style="text-align: center;">📊 GitHub Stats</h3>
-    <p style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=hyphen04&show_icons=true&theme=radical" alt="kp's GitHub Stats" height="200">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyphen04&theme=radical" alt="kp's GitHub Streak" height="200">
+  <div>
+    <h3>📊 GitHub Stats</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=hyphen04&show_icons=true&theme=radical" alt="kp's GitHub Stats" height="170">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyphen04&theme=radical" alt="kp's GitHub Streak" height="170">
     </p>
   </div>
-  <div style="flex: 1 1 300px; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    <h3 style="text-align: center;">🔥 Top Repositories</h3>
-    <p style="text-align: center;">
+  <div>
+    <h3>🔥 Top Repositories</h3>
+    <p>
       <a href="https://github.com/hyphen04/v4-YatraZen">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyphen04&repo=v4-YatraZen&theme=radical" />
       </a>
@@ -60,10 +60,10 @@
   </div>
 </div>
 
-<p style="text-align: center;">
+<p>
   <img src="https://komarev.com/ghpvc/?username=hyphen04&label=Profile%20Views&color=0e75b6&style=flat" alt="kp" /> 
   <img src="https://img.shields.io/github/stars/hyphen04?style=social" alt="stars">
 </p>
 
 
-<p style="text-align: center;">✨ Feel free to reach out and connect with me! ✨</p>
+<p>✨ Feel free to reach out and connect with me! ✨</p>
