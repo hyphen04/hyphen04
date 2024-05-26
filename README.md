@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunj Patel (kp)</h1>
+<h1 align="center">Hi 👋, I'm Kunj Patel </h1>
 <h3 align="center">Aspiring Full-Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
