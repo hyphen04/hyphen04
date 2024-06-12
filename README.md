@@ -14,8 +14,7 @@
   <div>
     <h3>👨‍💻 About Me</h3>
     <p>- 🔭 Working on <a href="https://github.com/hyphen04/v4-YatraZen">YatraZen</a></p>
-    <p>- 🌱 Researching **Face Recognition Systems**</p>
-    <p>- 🎓 Tech Club Initiator</p>
+    <p>- 🌱 Researching Face Recognition Systems</p>
     <p>- 🏆 Finalist at <strong>New India Vibrant Hackathon - 2023</strong></p>
   </div>
   <div>
