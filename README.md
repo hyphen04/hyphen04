@@ -21,7 +21,7 @@
     <h3>🌐 Connect with Me</h3>
     <p>
       <a href="https://linkedin.com/in/ikp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-      <a href="https://ikunj.me"><img src="https://img.shields.io/badge/Portfolio-ikunj.me-blue?style=flat-square&logo=web"></a>
+      <a href="https://kunj.me"><img src="https://img.shields.io/badge/Portfolio-kunj.me-blue?style=flat-square&logo=web"></a>
     </p>
   </div>
   <div>
