@@ -43,7 +43,6 @@
     <h3>📊 GitHub Stats</h3>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=hyphen04&show_icons=true&theme=radical" alt="kp's GitHub Stats" height="170">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyphen04&theme=radical" alt="kp's GitHub Streak" height="170">
     </p>
   </div>
   <div>
