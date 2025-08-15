@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://kunj.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-kunj.pages.dev-blue?style=flat-square&logo=web"></a>
+  <a href="https://kunj.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-kunj.dev-blue?style=flat-square&logo=web"></a>
   <a href="https://github.com/hyphen04" target="_blank"><img src="https://img.shields.io/github/followers/hyphen04?label=Follow&style=social"></a>
   <a href="mailto:kunj2604@gmail.com"><img src="https://img.shields.io/badge/Email-kunj2604%40gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
@@ -21,7 +21,7 @@
     <h3>🌐 Connect with Me</h3>
     <p>
       <a href="https://linkedin.com/in/ikp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-      <a href="https://kunj.pages.dev"><img src="https://img.shields.io/badge/Portfolio-kunj.pages.dev-blue?style=flat-square&logo=web"></a>
+      <a href="https://kunj.dev"><img src="https://img.shields.io/badge/Portfolio-kun.dev-blue?style=flat-square&logo=web"></a>
     </p>
   </div>
   <div>
